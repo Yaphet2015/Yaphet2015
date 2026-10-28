@@ -9,7 +9,6 @@ I build developer tools, coding agents, and AI workflows that I use every day.
 
 | Project | What it does |
 | --- | --- |
-| [**daily-news**](https://github.com/Yaphet2015/daily-news) | The pipeline behind my AI 日刊 / TGIF AI: collects X & Substack, AI ranks and filters, then I read and hand-pick what gets published |
 | [**studyboard**](https://github.com/Yaphet2015/studyboard) | Local-first AI learning canvas for macOS: concept maps, ask with selected context, export to Markdown / PNG |
 | [**Representer**](https://github.com/Yaphet2015/Representer) | Open-source Chrome extension: AI page summary, mind-map outline & chat (BYOK) |
 | [**ya-skills**](https://github.com/Yaphet2015/ya-skills) | Reusable agent skills + `yk` CLI for Claude Code / Codex |
