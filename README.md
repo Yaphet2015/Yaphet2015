@@ -3,6 +3,12 @@
 Engineer building AI tools. Previously at Ant Group, Kwai and Tencent.
 I build developer tools, coding agents, and AI workflows that I use every day.
 
+<p align="center">
+  <a href="https://github.com/Yaphet2015?tab=repositories">
+    <img src="https://spine.stv.pm/gh/Yaphet2015.svg?count=12" alt="Yaphet's GitHub project shelf" width="480">
+  </a>
+</p>
+
 📝 Blog: [blog.yaphet.me](https://blog.yaphet.me) · 📰 **AI 日刊** and the weekly **TGIF AI**: AI pre-filters the feed, then I read and hand-pick every item
 
 #### 🛠 Things I'm building
